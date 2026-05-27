@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productcender",
+        "uuid": 5378760,
+        "checksum": "lnck7j"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
